@@ -1,4 +1,4 @@
-package com.kuo.designPatterns.factory.before;
+package com.kuo.designPatterns.builder.factory.before;
 
 /**
  * @Author GuoKunKun

@@ -1,4 +1,4 @@
-package com.kuo.designPatterns.factory.factory_method;
+package com.kuo.designPatterns.builder.factory.factory_method;
 
 /**
  * @Author GuoKunKun

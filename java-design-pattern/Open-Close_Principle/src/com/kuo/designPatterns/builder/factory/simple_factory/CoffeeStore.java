@@ -1,4 +1,4 @@
-package com.kuo.designPatterns.factory.simple_factory;
+package com.kuo.designPatterns.builder.factory.simple_factory;
 
 
 

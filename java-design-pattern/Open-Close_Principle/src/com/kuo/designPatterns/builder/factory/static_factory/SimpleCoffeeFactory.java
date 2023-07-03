@@ -1,4 +1,4 @@
-package com.kuo.designPatterns.factory.static_factory;
+package com.kuo.designPatterns.builder.factory.static_factory;
 
 
 /**

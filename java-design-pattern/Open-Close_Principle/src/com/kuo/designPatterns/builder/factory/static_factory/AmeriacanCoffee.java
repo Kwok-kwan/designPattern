@@ -1,13 +1,14 @@
-package com.kuo.designPatterns.factory.before;
+package com.kuo.designPatterns.builder.factory.static_factory;
+
 
 /**
  * @Author GuoKunKun
  * @Description TODO(描述该类的功能)
  * @Date 2023/7/2 20:19
  */
-public class LatteCoffee extends Coffee{
+public class AmeriacanCoffee extends Coffee {
     @Override
     public String getName() {
-        return "拿铁咖啡";
+        return "美式咖啡";
     }
 }
