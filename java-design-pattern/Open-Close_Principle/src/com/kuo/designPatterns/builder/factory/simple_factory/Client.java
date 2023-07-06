@@ -10,5 +10,8 @@ public class Client {
         CoffeeStore store = new CoffeeStore();
         Coffee latte = store.orderCoffee("latte");
         System.out.println(latte.getName());
+        System.err.println(latte.getName());
+        if(true)
+            throw new NullPointerException();
     }
 }
