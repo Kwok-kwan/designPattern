@@ -1,6 +1,5 @@
 package com.kuo.designPatterns.builder.factory.config_factory;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Properties;
