@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cglib" type="repository">
+    <properties maven-id="cglib:cglib:2.2.2" />
+    <CLASSES>
+      <root url="jar://D:/java/apache-maven-3.3.3/apache-maven-3.3.3/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://D:/java/apache-maven-3.3.3/apache-maven-3.3.3/lib/asm-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/cglib-2.2.2-sources.jar!/src/proxy" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/cglib-2.2.2-sources.jar!/src/test" />
+    </SOURCES>
+  </library>
+</component>

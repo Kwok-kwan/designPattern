@@ -11,9 +11,13 @@ package com.kuo.designPatterns.builder.prototype.test;
 public class CitationTest {
     public static void main(String[] args) throws CloneNotSupportedException {
         Citation citation = new Citation();
+//        citation.setName("Tom");
+//        clone.setName("Jack");
+        Student student = new Student();
+        student.setName("Tom");
+        citation.setStudent(student);
         Citation clone = citation.clone();
-        citation.setName("Tom");
-        clone.setName("Jack");
+        clone.getStudent().setName("Jack");
         citation.show();
         clone.show();
     }

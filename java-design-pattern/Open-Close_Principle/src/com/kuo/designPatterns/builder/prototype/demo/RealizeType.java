@@ -6,7 +6,7 @@ package com.kuo.designPatterns.builder.prototype.demo;
  * @author kuo_kwan
  * @version 1.0
  * @date 2023/7/31
- * @description TODO
+ * @description 浅克隆
  */
 public class RealizeType implements Cloneable{
     public RealizeType() {

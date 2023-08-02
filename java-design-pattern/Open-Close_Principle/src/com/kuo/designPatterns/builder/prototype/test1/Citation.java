@@ -1,4 +1,6 @@
-package com.kuo.designPatterns.builder.prototype.test;
+package com.kuo.designPatterns.builder.prototype.test1;
+
+import java.io.Serializable;
 
 /**
  * Citation
@@ -8,7 +10,7 @@ package com.kuo.designPatterns.builder.prototype.test;
  * @date 2023/7/31
  * @description 浅克隆
  */
-public class Citation implements Cloneable{
+public class Citation implements Cloneable, Serializable {
 //    private String name;
 //
 //    public String getName() {
