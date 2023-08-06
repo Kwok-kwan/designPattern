@@ -15,7 +15,7 @@ public class Client {
         System.out.println("---------------------");
         String s = computer.readSD(new SDAdapterTF(new TFCardImpl()));
         System.out.println(s);
-        new AdapterPra() {
+        new AbAdapter() {
             @Override
             public String readSD() {
                 return null;
