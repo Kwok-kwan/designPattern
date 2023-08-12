@@ -4,7 +4,7 @@ package com.kuo.designPatterns.structural.bridge;
  * Client
  *
  * @author kuo_kwan
- * @version 1.0
+ * @version 1.000
  * @date 2023/8/9
  * @description TODO
  */
