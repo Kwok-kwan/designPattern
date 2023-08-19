@@ -6,7 +6,7 @@ package com.kuo.designPatterns.structural.decorator;
  * @author kuo_kwan
  * @version 1.0
  * @date 2023/8/8
- * @description TODO
+ * @description 装饰模式
  */
 public class Client {
     public static void main(String[] args) {
