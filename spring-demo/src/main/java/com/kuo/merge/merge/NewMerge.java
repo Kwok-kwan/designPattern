@@ -11,6 +11,7 @@ package com.kuo.merge.merge;
 public class NewMerge {
     public static void main(String[] args) {
         System.out.println("new Merge");
+        System.out.println("master rebase");
     }
 
 }

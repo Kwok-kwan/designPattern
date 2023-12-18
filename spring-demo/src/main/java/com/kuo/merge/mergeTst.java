@@ -13,5 +13,6 @@ public class mergeTst {
         System.out.println("merge");
         System.out.println("meigetest");
         System.out.println("master merge");
+        System.out.println("master rebase");
     }
 }
