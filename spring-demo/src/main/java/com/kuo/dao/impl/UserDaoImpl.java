@@ -14,6 +14,7 @@ public class UserDaoImpl implements UserDao {
 
     public UserDaoImpl() {
         System.out.println("userDao被创建了");
+        System.out.println("userDao被修改了");
     }
 
     @Override
